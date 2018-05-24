@@ -1,0 +1,8 @@
+前提: 
+对应的操作系统镜像为:CentOS-7-x86_64-Minimal-1804.iso
+下载版本选择: https://www.centos.org/download/
+下载地址: http://isoredirect.centos.org/centos/7/isos/x86_64/CentOS-7-x86_64-Minimal-1804.iso
+
+离线安装
+1. 拷贝所有rpm到服务器
+2. 在rpm目录下运行: yum localinstall ./*.rpm

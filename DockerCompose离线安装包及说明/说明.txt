@@ -1,0 +1,6 @@
+官方下载地址:https://github.com/docker/compose/releases,选择最新的版本下载
+
+拷贝文件
+cp docker-compose-Linux-x86_64 /usr/local/bin/docker-compose
+授权
+chmod +x /usr/local/bin/docker-compose
